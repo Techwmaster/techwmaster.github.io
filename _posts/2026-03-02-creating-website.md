@@ -30,7 +30,7 @@ If you need help setting up your terminal on Windows, check out these two posts 
 
 ## Install Dependencies
 
-```Shell
+```bash
 sudo apt get
 sudo apt install ruby-full build-essential zlib1g-dev git
 ```
@@ -38,7 +38,7 @@ To avoid installing RubyGems packages as the root user:
 
 If you are using **bash** (usually the default for most)
 
-```Shell
+```bash
 echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
 echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
 echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
