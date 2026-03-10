@@ -5,9 +5,10 @@ categories: [DevOps]
 tags: [Docker,Azure,CI/CD,Automation]  # TAG names should always be lowercase
 ---
 
-## Dockerfile management
+# Dockerfile management
 
 Modern application are often deployed using containers.
 
 However, organizations require a central registry where container images can be stored securely and deployed across environments.
 
+## To be continued...
