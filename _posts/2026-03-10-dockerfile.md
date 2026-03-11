@@ -1,6 +1,6 @@
 ---
 title: Dockerfile
-date: 2026-03-10 20:55:00 -500
+date: 2026-03-10 18:55:00 -500
 categories: [Docker]
 tags: [Website,Github,CI/CD,Automation]  # TAG names should always be lowercase
 ---
