@@ -8,9 +8,8 @@ tags: [Github,CI/CD, AWS, Automation]  # TAG names should always be lowercase
 
 
 ## Tech Stack
+
 GitHub, AWS, AWS CLI, Python
-
-
 
 ## Step1: Create a new repo in your GitHub
 
