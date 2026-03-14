@@ -7,9 +7,7 @@ tags: [Github,CI/CD, AWS, Automation]  # TAG names should always be lowercase
 
 
 
-# DevOps-Best-Practices
-
-### Tech Stack
+## Tech Stack
 GitHub, AWS, AWS CLI, Python
 
 
